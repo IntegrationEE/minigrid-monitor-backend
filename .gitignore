@@ -9,6 +9,8 @@
 *.user
 *.userosscache
 *.sln.docstates
+*InitialCreate.cs
+*Snapshot.cs
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
@@ -338,3 +340,4 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
+/MonitorBackend/MonitorBackend/Migrations/20200218144616_InitialCreate.Designer.cs

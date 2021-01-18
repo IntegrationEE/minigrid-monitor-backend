@@ -1,0 +1,316 @@
+Copyright (C) 2021  INTEGRATION environment & energy 
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <https://www.gnu.org/licenses/>. 
+
+
+
+####################################################################################################
+Package:FreeSpire.XLS
+Version:10.10.0
+project URL:http://www.e-iceblue.cohttp//www.e-iceblue.com/Introduce/free-xls-component.html
+Description:Free Spire.XLS for .NET is a standalone Excel .NET library and does not depend on Microsoft Office Excel. It supports both for the old Excel 97-2003 format (.xls) and for the new Excel 2007 and Excel 2010 (.xlsx, .xlsm).
+
+Powerful & High Quality Excel File Conversion
+Free Spire.XLS for .NET has powerful conversion ability and it enables converting Excel files to most common and popular formats. Convert Excel to HTML/XML
+Convert XML to Excel
+Convert Excel to Text
+Convert Excel to PDF
+
+Create Excel Report from Comprehensive Workbook Designer
+Free Spire.XLS for .NET enables developers to generate Excel workbook from scratch, or load a workbook from either folder or file stream. Developers can also save it to file, file stream or web response. Free Spire.XLS for .NET offers a wide range of security features including Excel encryption/decryption, cells hide/unhide, and worksheets lock/unlock. 
+
+Freely operate worksheet
+Free Spire.XLS for .NET enables developers to create, add, delete, rename, edit and move worksheet in either C#, VB.NET or ASP.NET. Developers can also copy, move, and consolidate across worksheets with full contents. This professional Excel .NET class library also embeds many flexible options for displaying worksheets, such as page breaks, zoom-setting, freeze panes, headers/footers, print paper size and print area etc. 
+
+Free version is limited to 5 sheets per workbook and 200 rows per sheet. This limitation is enforced during reading or writing XLS or PDF files. From Free Spire.XLS v7.8, there is no any limitation when loading and saving .xlsx file format. When converting Excel files to PDF files, you can only get the first 3 pages of PDF file.
+licenseUrl:https://aka.ms/deprecateLicenseUrl
+license Type:license.txt
+
+####################################################################################################
+Package:Microsoft.AspNetCore.Http.Features
+Version:3.1.8
+project URL:https://asp.net/
+Description:ASP.NET Core HTTP feature interface definitions.
+
+This package was built from the source code at https://github.com/aspnet/AspNetCore/tree/c75b3f7a2fb9fe21fd96c93c070fdfa88a2fbe97
+licenseUrl:https://licenses.nuget.org/Apache-2.0
+license Type:Apache-2.0
+
+####################################################################################################
+Package:ZXing.Net
+Version:0.16.6
+project URL:https://github.com/micjahn/ZXing.Net/
+Description:ZXing.Net is a port of ZXing, an open-source, multi-format 1D/2D barcode image processing library originally implemented in Java.
+It has been ported by hand with a lot of optimizations and improvements.
+
+It is compatible with .Net 2.0, .Net 3.5, .Net 4.x, Windows RT Class Library and Components, UWP, .Net Standard 1.x and 2.0x, .Net Core App 3.x, Silverlight 4, Silverlight 5, Windows Phone 7.x and Windows Phone 8.x and Xamarin.Android
+licenseUrl:https://licenses.nuget.org/Apache-2.0
+license Type:Apache-2.0
+
+####################################################################################################
+Package:Newtonsoft.Json
+Version:12.0.3
+project URL:https://www.newtonsoft.com/json
+Description:Json.NET is a popular high-performance JSON framework for .NET
+licenseUrl:https://licenses.nuget.org/MIT
+license Type:MIT
+
+####################################################################################################
+Package:AutoMapper
+Version:10.1.1
+project URL:https://automapper.org/
+Description:A convention-based object-object mapper.
+licenseUrl:https://licenses.nuget.org/MIT
+license Type:MIT
+
+####################################################################################################
+Package:NetTopologySuite
+Version:2.1.0
+project URL:
+Description:The NTS Topology Suite is an API for modelling and manipulating 2-dimensional linear geometry. It provides numerous geometric predicates and functions. NTS conforms to the Simple Features Specification.
+licenseUrl:https://licenses.nuget.org/BSD-3-Clause
+license Type:BSD-3-Clause
+
+####################################################################################################
+Package:Newtonsoft.Json
+Version:12.0.3
+project URL:https://www.newtonsoft.com/json
+Description:Json.NET is a popular high-performance JSON framework for .NET
+licenseUrl:https://licenses.nuget.org/MIT
+license Type:MIT
+
+####################################################################################################
+Package:AutoMapper
+Version:10.1.1
+project URL:https://automapper.org/
+Description:A convention-based object-object mapper.
+licenseUrl:https://licenses.nuget.org/MIT
+license Type:MIT
+
+####################################################################################################
+Package:NetTopologySuite
+Version:2.1.0
+project URL:
+Description:The NTS Topology Suite is an API for modelling and manipulating 2-dimensional linear geometry. It provides numerous geometric predicates and functions. NTS conforms to the Simple Features Specification.
+licenseUrl:https://licenses.nuget.org/BSD-3-Clause
+license Type:BSD-3-Clause
+
+####################################################################################################
+Package:Newtonsoft.Json
+Version:12.0.3
+project URL:https://www.newtonsoft.com/json
+Description:Json.NET is a popular high-performance JSON framework for .NET
+licenseUrl:https://licenses.nuget.org/MIT
+license Type:MIT
+
+####################################################################################################
+Package:IdentityServer4
+Version:4.1.1
+project URL:https://github.com/IdentityServer/IdentityServer4
+Description:OpenID Connect and OAuth 2.0 Framework for ASP.NET Core
+licenseUrl:https://licenses.nuget.org/Apache-2.0
+license Type:Apache-2.0
+
+####################################################################################################
+Package:AutoMapper
+Version:10.1.1
+project URL:https://automapper.org/
+Description:A convention-based object-object mapper.
+licenseUrl:https://licenses.nuget.org/MIT
+license Type:MIT
+
+####################################################################################################
+Package:Microsoft.EntityFrameworkCore
+Version:3.1.8
+project URL:https://docs.microsoft.com/ef/core/
+Description:Entity Framework Core is a lightweight and extensible version of the popular Entity Framework data access technology.
+
+Commonly Used Types:
+Microsoft.EntityFrameworkCore.DbContext
+Microsoft.EntityFrameworkCore.DbSet
+licenseUrl:https://licenses.nuget.org/Apache-2.0
+license Type:Apache-2.0
+
+####################################################################################################
+Package:NLog
+Version:4.7.5
+project URL:https://nlog-project.org/
+Description:NLog is a logging platform for .NET with rich log routing and management capabilities.
+NLog supports traditional logging, structured logging and the combination of both.
+
+Supported platforms:
+
+- .NET Framework 3.5, 4, 4.5, 4.6, 4.7 & 4.8
+- .NET Core 1, 2 and 3
+- .NET Standard 1.3+ and 2.0+;
+- .NET Framework 4 client profile
+- Xamarin Android, Xamarin iOs
+- UWP
+- Windows Phone 8
+- Silverlight 4 and 5
+- Mono 4
+
+For ASP.NET Core, check: https://www.nuget.org/packages/NLog.Web.AspNetCore
+licenseUrl:https://github.com/NLog/NLog/blob/master/LICENSE.txt
+license Type:
+
+####################################################################################################
+Package:Npgsql.EntityFrameworkCore.PostgreSQL
+Version:3.1.4
+project URL:https://github.com/npgsql/efcore.pg
+Description:PostgreSQL/Npgsql provider for Entity Framework Core.
+licenseUrl:https://licenses.nuget.org/PostgreSQL
+license Type:PostgreSQL
+
+####################################################################################################
+Package:Npgsql.EntityFrameworkCore.PostgreSQL.NetTopologySuite
+Version:3.1.4
+project URL:https://github.com/npgsql/efcore.pg
+Description:NetTopologySuite PostGIS spatial support plugin for PostgreSQL/Npgsql Entity Framework Core provider.
+licenseUrl:https://licenses.nuget.org/PostgreSQL
+license Type:PostgreSQL
+
+####################################################################################################
+Package:System.Data.SqlClient
+Version:4.8.2
+project URL:https://github.com/dotnet/corefx
+Description:Provides the data provider for SQL Server. These classes provide access to versions of SQL Server and encapsulate database-specific protocols, including tabular data stream (TDS)
+
+Commonly Used Types:
+System.Data.SqlClient.SqlConnection
+System.Data.SqlClient.SqlException
+System.Data.SqlClient.SqlParameter
+System.Data.SqlDbType
+System.Data.SqlClient.SqlDataReader
+System.Data.SqlClient.SqlCommand
+System.Data.SqlClient.SqlTransaction
+System.Data.SqlClient.SqlParameterCollection
+System.Data.SqlClient.SqlClientFactory
+ 
+When using NuGet 3.x this package requires at least version 3.4.
+licenseUrl:https://licenses.nuget.org/MIT
+license Type:MIT
+
+####################################################################################################
+Package:AutoMapper.Extensions.Microsoft.DependencyInjection
+Version:8.1.0
+project URL:https://automapper.org/
+Description:AutoMapper extensions for ASP.NET Core
+licenseUrl:https://licenses.nuget.org/MIT
+license Type:MIT
+
+####################################################################################################
+Package:Microsoft.AspNetCore.Authentication.JwtBearer
+Version:3.1.8
+project URL:https://asp.net/
+Description:ASP.NET Core middleware that enables an application to receive an OpenID Connect bearer token.
+
+This package was built from the source code at https://github.com/aspnet/AspNetCore/tree/c75b3f7a2fb9fe21fd96c93c070fdfa88a2fbe97
+licenseUrl:https://licenses.nuget.org/Apache-2.0
+license Type:Apache-2.0
+
+####################################################################################################
+Package:Microsoft.AspNetCore.Mvc.NewtonsoftJson
+Version:3.1.8
+project URL:https://asp.net/
+Description:ASP.NET Core MVC features that use Newtonsoft.Json. Includes input and output formatters for JSON and JSON PATCH.
+
+This package was built from the source code at https://github.com/aspnet/AspNetCore/tree/c75b3f7a2fb9fe21fd96c93c070fdfa88a2fbe97
+licenseUrl:https://licenses.nuget.org/Apache-2.0
+license Type:Apache-2.0
+
+####################################################################################################
+Package:Microsoft.EntityFrameworkCore.Tools
+Version:3.1.8
+project URL:https://docs.microsoft.com/ef/core/
+Description:Entity Framework Core Tools for the NuGet Package Manager Console in Visual Studio.
+
+Enables these commonly used commands:
+Add-Migration
+Drop-Database
+Get-DbContext
+Scaffold-DbContext
+Script-Migrations
+Update-Database
+licenseUrl:https://licenses.nuget.org/Apache-2.0
+license Type:Apache-2.0
+
+####################################################################################################
+Package:Microsoft.Extensions.Logging.Debug
+Version:3.1.8
+project URL:https://asp.net/
+Description:Debug output logger provider implementation for Microsoft.Extensions.Logging. This logger logs messages to a debugger monitor by writing messages with System.Diagnostics.Debug.WriteLine().
+licenseUrl:https://licenses.nuget.org/Apache-2.0
+license Type:Apache-2.0
+
+####################################################################################################
+Package:Microsoft.VisualStudio.Web.CodeGeneration.Design
+Version:3.1.4
+project URL:https://github.com/dotnet/scaffolding
+Description:Code Generation tool for ASP.NET Core. Contains the dotnet-aspnet-codegenerator command used for generating controllers and views.
+licenseUrl:https://licenses.nuget.org/Apache-2.0
+license Type:Apache-2.0
+
+####################################################################################################
+Package:NLog
+Version:4.7.5
+project URL:https://nlog-project.org/
+Description:NLog is a logging platform for .NET with rich log routing and management capabilities.
+NLog supports traditional logging, structured logging and the combination of both.
+
+Supported platforms:
+
+- .NET Framework 3.5, 4, 4.5, 4.6, 4.7 & 4.8
+- .NET Core 1, 2 and 3
+- .NET Standard 1.3+ and 2.0+;
+- .NET Framework 4 client profile
+- Xamarin Android, Xamarin iOs
+- UWP
+- Windows Phone 8
+- Silverlight 4 and 5
+- Mono 4
+
+For ASP.NET Core, check: https://www.nuget.org/packages/NLog.Web.AspNetCore
+licenseUrl:https://github.com/NLog/NLog/blob/master/LICENSE.txt
+license Type:
+
+####################################################################################################
+Package:NLog.Web.AspNetCore
+Version:4.9.3
+project URL:https://github.com/NLog/NLog.Web
+Description:NLog LoggerProvider for Microsoft.Extensions.Logging and ASP.NET Core platform. Adds helpers and layout renderers for websites and web applications.
+
+Supported platforms:
+
+- For ASP.NET Core 3, .NET Core 3.0
+- For ASP.NET Core 2, .NET Standard 2.0+ and .NET 4.6+
+- For ASP.NET Core 1, .NET Standard 1.5+ and .NET 4.5.x
+licenseUrl:https://github.com/NLog/NLog.Web/blob/master/LICENSE
+license Type:
+
+####################################################################################################
+Package:Npgsql.EntityFrameworkCore.PostgreSQL.NetTopologySuite
+Version:3.1.4
+project URL:https://github.com/npgsql/efcore.pg
+Description:NetTopologySuite PostGIS spatial support plugin for PostgreSQL/Npgsql Entity Framework Core provider.
+licenseUrl:https://licenses.nuget.org/PostgreSQL
+license Type:PostgreSQL
+
+####################################################################################################
+Package:Swashbuckle.AspNetCore
+Version:5.6.3
+project URL:https://github.com/domaindrivendev/Swashbuckle.AspNetCore
+Description:Swagger tools for documenting APIs built on ASP.NET Core
+licenseUrl:https://raw.githubusercontent.com/domaindrivendev/Swashbuckle.AspNetCore/master/LICENSE
+license Type:
